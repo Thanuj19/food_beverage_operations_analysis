@@ -1,0 +1,5 @@
+line,shift,units_produced,planned_units,downtime_minutes,defects,water_liters,energy_kwh,attainment_pct,defect_rate_pct,water_l_per_1000_units,energy_kwh_per_1000_units
+Line-A,Day,4930,5000,24.4,44,22160,1542.0,98.6,0.89,4494.93,312.78
+Line-A,Night,4555,5000,56.4,87,21150,1659.0,91.1,1.91,4643.25,364.22
+Line-B,Day,4780,5000,37.0,81,23350,1730.0,95.6,1.69,4884.94,361.92
+Line-B,Night,4480,5000,65.4,127,22230,1818.0,89.6,2.83,4962.05,405.8
